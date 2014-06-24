@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.962019,
+          43.281575
+        ]
+      },
+      "properties": {
+        "id": "3001",
+        "name": "PLAZA LEVANTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94922937639058,
+          43.2698187790811
+        ]
+      },
+      "properties": {
+        "id": "3002",
+        "name": "IRUÑA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92553666979074,
+          43.2653075549752
+        ]
+      },
+      "properties": {
+        "id": "3003",
+        "name": "CAMPO VOLANTIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92438298463821,
+          43.2595180068165
+        ]
+      },
+      "properties": {
+        "id": "3004",
+        "name": "PLAZA ARRIAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93078617192805,
+          43.2501652278006
+        ]
+      },
+      "properties": {
+        "id": "3005",
+        "name": "SANTIAGO COMPOSTELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94552298262715,
+          43.2522180397063
+        ]
+      },
+      "properties": {
+        "id": "3006",
+        "name": "PLAZA REKALDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94403402134776,
+          43.256369009614
+        ]
+      },
+      "properties": {
+        "id": "3007",
+        "name": "PLAZA LA CASILLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94935770332813,
+          43.2618788536638
+        ]
+      },
+      "properties": {
+        "id": "3008",
+        "name": "ZUNZUNEGI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97401122748852,
+          43.2751855440438
+        ]
+      },
+      "properties": {
+        "id": "3009",
+        "name": "ASTILLERO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93395780026913,
+          43.2613801304251
+        ]
+      },
+      "properties": {
+        "id": "3010",
+        "name": "EGUILLOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94525149278343,
+          43.2658132351935
+        ]
+      },
+      "properties": {
+        "id": "3011",
+        "name": "S.  CORAZON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94111996889114,
+          43.2607519906014
+        ]
+      },
+      "properties": {
+        "id": "3012",
+        "name": "PLAZA INDAUTXU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93950787745416,
+          43.2672551739961
+        ]
+      },
+      "properties": {
+        "id": "3013",
+        "name": "LEHENDAKARI LEIZAOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92519921436906,
+          43.2434157002717
+        ]
+      },
+      "properties": {
+        "id": "3014",
+        "name": "CAMPA IBAIZABAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91969565674663,
+          43.2529854867607
+        ]
+      },
+      "properties": {
+        "id": "3015",
+        "name": "POLID. ATXURI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.944672,
+          43.271675
+        ]
+      },
+      "properties": {
+        "id": "3016",
+        "name": "SAN PEDRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91268126107752,
+          43.2540419418365
+        ]
+      },
+      "properties": {
+        "id": "3017",
+        "name": "KARMELO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90722874924541,
+          43.2480563409626
+        ]
+      },
+      "properties": {
+        "id": "3018",
+        "name": "BOLUETA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90032734163105,
+          43.2594191841781
+        ]
+      },
+      "properties": {
+        "id": "3019",
+        "name": "OTXARKOAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96075833333333,
+          43.2655777777778
+        ]
+      },
+      "properties": {
+        "id": "3020",
+        "name": "OLABEAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95838611111111,
+          43.2743333333333
+        ]
+      },
+      "properties": {
+        "id": "3021",
+        "name": "SARRIKO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93278611111111,
+          43.2642611111111
+        ]
+      },
+      "properties": {
+        "id": "3022",
+        "name": "HEROS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9343,
+          43.2575222222222
+        ]
+      },
+      "properties": {
+        "id": "3023",
+        "name": "ZABALBURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91689444444444,
+          43.2610666666667
+        ]
+      },
+      "properties": {
+        "id": "3024",
+        "name": "P.ETXEBARRIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90722777777778,
+          43.2568583333333
+        ]
+      },
+      "properties": {
+        "id": "3025",
+        "name": "TXOMIN GARAT"
+      }
+    }
+  ]
+}
